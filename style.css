@@ -92,7 +92,7 @@
   }
   .bg-lightdark{
     margin: 1px;
-    background-color: rgba(50, 49, 49, 0.641);
+    color: white;
   }
   .bg-lightdark:hover{
     margin: 1px;
