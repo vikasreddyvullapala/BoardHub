@@ -79,6 +79,17 @@
     overflow-y: hidden;
     overflow-x: hidden;
   }
+  .card{
+    width: 20%;
+    height: 20rem;
+    color: aliceblue;
+    background-color: rgba(6, 6, 6, 0);
+    margin: 0rem 0.5rem;
+    padding: 2rem;
+    border: none;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
   .bg-lightdark{
     margin: 1px;
     background-color: rgba(50, 49, 49, 0.641);
